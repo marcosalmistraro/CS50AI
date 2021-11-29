@@ -15,7 +15,7 @@ A first run of the model was performed by implementing the following layer struc
 - MaxPool2D
 - Flatten
 - Dropout
-- Final classification layer with the ‘softmax’ activation function.
+- Final classification layer with the `softmax` activation function.
 
 This yielded an accuracy of 0.8805. In order to improve such metric, I tried to increase the `pool_size` parameter to (4,4). This did not turn out to be a great idea, as it brought down the accuracy to 0.7317, probably due to the excessive amount of details carried onto the network’s further layers.
 
