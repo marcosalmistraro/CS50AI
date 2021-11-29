@@ -1,6 +1,6 @@
 # 4. Shopping
 
-The task is to build a **Nearest-Neighbors** classifier. Given information about a user, for example how many pages they’ve visited, whether they’re shopping on a weekend, what web browser they’re using, the model predicts whether or not the user will make a purchase. 
+The task is to build a **Nearest-Neighbors** classifier. Using information about a user, the model predicts whether or he or she will make a purchase. 
 
 ## Usage
 
