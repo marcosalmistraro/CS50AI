@@ -1,6 +1,6 @@
 # 5. Traffic
 
-In this project I used TensorFlow to build a **neural network** with the aim to classify road signs based on previously existing training data.
+This project employs the **TensorFlow** library to build a **neural network** with the aim of classifying road signs based on previously existing training data.
 The model is based on the German Traffic Sign Recognition Benchmark (GTSRB) dataset, which contains thousands of images of 43 different kinds of road signs.
 
 ## Usage
